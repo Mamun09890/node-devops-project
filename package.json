@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
   }
 }
